@@ -1,2 +1,2 @@
-class Hi:
+class Hi():
     pass
